@@ -10,12 +10,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="298.58438"
-   height="350.49197"
-   viewBox="0 0 79.00045 92.734337"
+   height="372.24121"
+   viewBox="0 0 79.000452 98.488823"
    version="1.1"
    id="svg6849"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="logo_1.svg">
+   sodipodi:docname="logo_1.svg"
+   inkscape:export-filename="/home/jean-pascal/Desktop/nomaze/nomaze.github.io/img/logo_1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs6843" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="71.367149"
-     inkscape:cy="329.24783"
+     inkscape:zoom="3.959798"
+     inkscape:cx="155.08021"
+     inkscape:cy="323.41763"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,7 +44,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     units="px" />
+     units="px"
+     showguides="false" />
   <metadata
      id="metadata6846">
     <rdf:RDF>
@@ -58,7 +62,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-67.089062,-153.32314)">
+     transform="translate(-67.089062,-147.56865)">
     <circle
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#010000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path7394"
@@ -203,5 +207,12 @@
          x="80.988113"
          y="245.91112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:UnYetgul;-inkscape-font-specification:UnYetgul;stroke-width:0.91469496">NoMaze</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect837"
+       width="15.702085"
+       height="4.3431296"
+       x="98.827316"
+       y="147.56865" />
   </g>
 </svg>
