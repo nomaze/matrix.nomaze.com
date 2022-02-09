@@ -106,7 +106,7 @@
 
 /*
  * Libre Baskerville
-================================================================================ */   
+================================================================================ */
 @font-face {
     font-family: 'librebaskerville-bold';
     src: url('fonts/librebaskerville/librebaskerville-bold-webfont.eot');
@@ -136,6 +136,11 @@
          url('fonts/librebaskerville/librebaskerville-regular-webfont.svg#libre_baskervilleregular') format('svg');
     font-weight: normal;
     font-style: normal;
+}
+
+@font-face {
+    font-family: 'sansforgetica-regular';
+    src: url('fonts/sansforgetica/SansForgetica-Regular.otf') format('opentype');
 }
 
 
