@@ -1,0 +1,50 @@
+{
+  "main": {
+    "name":"NoMaze",
+    "description":"We help breeders automate and visualize their process to keep up with rising production demands.",
+    "image":"logo.jpg",
+    "contactmessage":"If you have questions or want to know more, please get in touch!",
+    "email": "contact@nomaze.de",
+    "phone": "555-555-5555",
+    "github":"https://github.com/nomaze",
+    "website":"https://nomaze.de/common/prototype.html",
+    "address":{
+      "street":"Beispielstraße 1",
+      "city":"Munich",
+      "state":"Bavaria",
+      "zip": "80331"
+    },
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/nomaze",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nomaze",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/nomaze",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nomaze",
+        "className":"fa fa-github"
+      }
+    ],
+    "testimonials":[
+      {
+        "user": "jp",
+        "text": "wow, awesome!"
+      },
+      {
+        "user": "finn",
+        "text": "just what I needed"
+      }
+    ]
+  }
+}
