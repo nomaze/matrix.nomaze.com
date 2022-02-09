@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,aACI,cACJ,CAEA,WACI,eAAgB,CAChB,mBACJ","file":"main.0e0df552.chunk.css","sourcesContent":[".tsparticles {\n    position: fixed;\n}\n\n.hero-logo {\n    margin-top: 50pt;\n    margin-bottom: -30pt;\n}\n"]}
