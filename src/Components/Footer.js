@@ -8,7 +8,7 @@ class Footer extends Component {
     const networks = this.props.data.social.map(function (network) {
       return (
         <li key={network.name}>
-          <a href={network.url}>
+          <a href={network.url} class={`a umami--click--social-${network.className}`}>
             <i className={network.className}></i>
           </a>
         </li>

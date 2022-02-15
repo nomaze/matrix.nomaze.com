@@ -47,19 +47,19 @@ class Header extends Component {
 
           <ul id="nav" className="nav">
             <li className="current">
-              <a className="smoothscroll" href="#home">
+              <a className="smoothscroll" class="a umami--click--home" href="#home">
                 Home
               </a>
             </li>
 
             <li>
-              <a className="smoothscroll" href="#about">
+              <a className="smoothscroll" class="a umami--click--about" href="#about">
                 About
               </a>
             </li>
 
             <li>
-              <a className="smoothscroll" href="#contact">
+              <a className="smoothscroll" class="a umami--click--contact" href="#contact">
                 Contact
               </a>
             </li>
@@ -81,10 +81,10 @@ class Header extends Component {
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a href={website} className="button btn project-btn">
+                <a href={website} class="a umami--click--demo" className="button btn project-btn">
                   <i className="fa fa-book"></i>Live Demo
                 </a>
-                <a href={github} className="button btn github-btn">
+                <a href={github} class="a umami--click--github" className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
                 </a>
               </ul>
