@@ -64,6 +64,12 @@ class Header extends Component {
               </a>
             </li>
 
+            <li>
+              <a className="smoothscroll" className="a umami--click--jobs" href="https://jobs.nomaze.de">
+                Jobs
+              </a>
+            </li>
+
           </ul>
         </nav>
 
