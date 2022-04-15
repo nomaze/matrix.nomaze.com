@@ -17,17 +17,17 @@
     "social":[
       {
         "name":"twitter",
-        "url":"http://twitter.com/nomaze",
+        "url":"http://twitter.com/nomaze2",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/nomaze",
+        "url":"https://www.linkedin.com/company/nomaze-de",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/nomaze",
+        "url":"http://instagram.com/inside_nomaze",
         "className":"fa fa-instagram"
       },
       {
