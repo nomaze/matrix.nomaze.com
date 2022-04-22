@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a69e85f9.css","mappings":"AAAA,aACI,cACJ,CAEA,WAEI,mBAAoB,CADpB,eAEJ","sources":["App.css"],"sourcesContent":[".tsparticles {\n    position: fixed;\n}\n\n.hero-logo {\n    margin-top: 50pt;\n    margin-bottom: -30pt;\n}\n"],"names":[],"sourceRoot":""}
