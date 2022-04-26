@@ -1,15 +1,14 @@
 import React, { Component } from "react";
-import Fade from "react-reveal";
 import Particles from "react-tsparticles";
 import { Main } from "tsparticles";
 import { loadLinksPreset } from "tsparticles-preset-links";
 
 class Header extends Component {
 
-  customInit(main: Main) {
-    // this adds the preset to tsParticles, you can safely use the
-    loadLinksPreset(main);
-  }
+  // customInit(main: Main) {
+  //   // this adds the preset to tsParticles, you can safely use the
+  //   loadLinksPreset(main);
+  // }
 
   render() {
     if (!this.props.data) return null;
@@ -31,6 +30,7 @@ class Header extends Component {
         },
       },
       preset: "links",
+      density_auto: "true"
     };
 
     return (
@@ -75,23 +75,15 @@ class Header extends Component {
 
         <div className="row banner" >
           <div className="banner-text">
-            <Fade bottom >
               <img className="hero-logo" src={process.env.PUBLIC_URL + "/images/logo.svg"} alt="Nomaze Logo" />
-            </Fade>
-            <Fade bottom duration={600}>
               <h1 className="responsive-headline">{name}</h1>
-            </Fade>
-            <Fade bottom duration={1200}>
               <h3>{description}</h3>
-            </Fade>
             <hr />
-            <Fade bottom duration={2000}>
               <ul className="social">
                 <a href={website} class="a umami--click--demo" className="button btn project-btn">
                   <i className="fa fa-book"></i>Live Demo
                 </a>
               </ul>
-            </Fade>
           </div>
         </div>
 
