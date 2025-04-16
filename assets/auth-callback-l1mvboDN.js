@@ -1,0 +1,1 @@
+import{L as e,j as n}from"./index-DJtJpnZ_.js";import{L as t}from"./LoadingSnackbar-DSFVQldx.js";const c=function(){let o=new URL(window.location.href.replace("#/","")).searchParams.get("token");return e().setToken(o),window.location.assign("/"),n.jsx(t,{loading:!0})};export{c as component};

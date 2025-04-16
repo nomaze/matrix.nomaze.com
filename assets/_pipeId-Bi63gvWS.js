@@ -1,0 +1,1 @@
+import{g as p,j as o}from"./index-DJtJpnZ_.js";import{P as r}from"./PipelineGraphComponent-rJYMOydx.js";import{S as n}from"./SubNavToolbarComponent-ylyrcG4k.js";import"./Card-0SXhI6Hu.js";import"./LoadingSnackbar-DSFVQldx.js";const c=function(){const{pipeId:t,username:e}=p();return o.jsx(n,{pipeId:t,username:e,isTemplate:!0,children:o.jsx(r,{})})};export{c as component};

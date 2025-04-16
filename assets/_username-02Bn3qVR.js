@@ -1,0 +1,1 @@
+import{u as e,j as n}from"./index-DJtJpnZ_.js";import{P as s}from"./PipesPageComponent-CFfgssY8.js";import{L as t}from"./LoadingSnackbar-DSFVQldx.js";import"./UserManagementPageComponent-WYe08XeO.js";const f=function(){const{data:r,isLoading:o}=e();return o?n.jsx(t,{loading:o}):n.jsx(s,{username:r.username})};export{f as component};
